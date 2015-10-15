@@ -1,5 +1,4 @@
-# codingtest
-Cypher Genomics Coding Test
+# Cypher Genomics Coding Test
 
 There exists a data file in the repository called data/variant_summary.sample.txt.
 
