@@ -11,8 +11,7 @@ The first line is a header line with the names of the fields.
     * GeneID
     * GeneSymbol
     * ClinicalSignificance
-    * RS#
-    * (dbSNP)
+    * RS# (dbSNP)
     * RCVaccession
     * PhenotypeIDs
     * Assembly
